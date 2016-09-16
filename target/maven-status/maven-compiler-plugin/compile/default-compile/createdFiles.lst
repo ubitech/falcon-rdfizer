@@ -1,0 +1,8 @@
+eu/falcon/rdfizer/util/SarefOntologyParser.class
+eu/falcon/rdfizer/service/RDFizerImpl.class
+eu/falcon/rdfizer/service/OntologyMappingImpl.class
+eu/falcon/rdfizer/util/Mapping.class
+eu/falcon/rdfizer/service/OntologyMapping.class
+eu/falcon/rdfizer/Application.class
+eu/falcon/rdfizer/service/RDFizer.class
+eu/falcon/rdfizer/util/Util.class

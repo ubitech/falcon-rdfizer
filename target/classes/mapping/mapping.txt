@@ -1,0 +1,3 @@
+Temp,Temperature
+Pressure,Pressure
+Power,Power
